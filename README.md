@@ -1,3 +1,5 @@
+<!-- Zombie Politics -->
+
 <h1>Zombie Politics<br>
 and Culture in the Age of Casino Capitalism</h1>
 
@@ -18,9 +20,9 @@ for the task of renew­ing a common world.</p>
 <h2>The Rise OF Zombie Politics</h2>
 
 <p>In the world of popular culture, zombies seem to be everywhere, as evidenced by
-the relentless slew of books, movies, video games, and comics. From the haunt­
-ing Night of tbe Living Dead to the comic movie Zombieland, the figure of the 
-zom­bie has captured and touched something unique in the contemporary imagination.</p>
+the relentless slew of books, movies, video games, and comics. From the haunt­ing Night 
+of tbe Living Dead to the comic movie Zombieland, the figure of the zom­bie has captured 
+and touched something unique in the contemporary imagination.</p>
 
 <p>But the dark and terrifying image of the zombie with missing body parts, oozing
 body fluids, and an appetite for fresh, living, human brains does more than feed the
@@ -46,23 +48,23 @@ decay, abandoned houses, burned-out cars, gutted landscapes, and trashed gas
 sta­tions.</p>
 
 <p>The twenty-first-century zombies no longer emerge from the grave; they now
-inhabit the rich environs ofWall Street and roam the halls of the gilded monuments
-of greed such as Goldman Sachs. As an editorial in The Ne-w York Times points out,
-the new zombies of free-market fundamentalism turned "the financial system into
-a casino. Like gambling, the transactions mostly just shified paper money around
+inhabit the rich environs of Wall Street and roam the halls of the gilded monuments
+of greed such as Goldman Sachs. As an editorial in The New York Times points out,
+the new zombies of free-market fundamentalism turned "the financial system into 
+a casino. Like gambling, the transactions mostly just shifted paper money around
 the globe. Unlike gambling, they packed an enormous capacity for collective and
 economic destruction-hobbling banks that made bad bets, freezing credit and 
-eco­nomic activity Society-not the bankers-bore the cost."3 In this way the zombie­
+eco­nomic activity. Society-not the bankers-bore the cost."3 In this way the zombie­
 the immoral, sub-Nietzschean, id-driven "other" who is "hyper-dead" but still alive
 as an avatar of death and cruelty-provides an apt metaphor for a new kind of
 authoritarianism that has a grip on contemporary politics in the United States.4 This
 is an authoritarianism in which mindless self-gratification becomes the sanctioned
-nonn and public issues collapse into the realm of privatized anger and rage. The rule
+noun and public issues collapse into the realm of privatized anger and rage. The rule
 of the market offers the hyper-dead an opportunity to exercise unprecedented
-power in American society, reconstructing civic and political culture almost entire­
-ly in the service of a politics that fuels the friend/ enemy divide, even as 
+power in American society, reconstructing civic and political culture almost entire­ly 
+in the service of a politics that fuels the friend/ enemy divide, even as 
 democra­cy becomes the scandal of casino capitalism-its ultimate humiliation.</p>
-
+<!-- validated to here -->
 <p>But the new zombies are not only wandering around in the banks, investment
 houses, and death chambers of high finance, they have an ever-increasing presence
 in the highest reaches of government and in the forefront of mainstream media. The
@@ -1811,7 +1813,7 @@ is left to the fate of markets and the financial hyper-dead, while everyone else
 to look out for themselves, bereft of any social protections or collective help from
 broader social spheres.</p>
 
-Before he died, President Franklin Delano Roosevelt advocated precisely for
+<p>Before he died, President Franklin Delano Roosevelt advocated precisely for
 such rights, which he called a "second bill of rights," and which included the right
 "of every family to a decent home. The right to adequate medical care and the oppor­
 tunity to achieve and enjoy good health. The right to adequate protection from the
@@ -1819,9 +1821,9 @@ economic fears of old age, sickness, accident and unemployment. The right to a g
 education." That is, those social and economic rights that provide a secure foun­
 dation for people to live with dignity and be free to become critical and engaged cit­
 izens, capable of both expanding their own sense of agency and freedom while being
-able to work with others to fulfill the demands of an aspiring democracy.
+able to work with others to fulfill the demands of an aspiring democracy.</p>
 
-But in the truncated notion of freedom espoused by the right-wing extremists
+<p>But in the truncated notion of freedom espoused by the right-wing extremists
 of casino capitalism, democracy is a deficit, if not a pathology, and freedom is
 reduced to the narrow logic of an almost rabid focus on self-interest. As l pointed
 out in the Introduction, this is a truncated version of freedom, defined largely as free­
@@ -1838,9 +1840,9 @@ harsh, militarized, and hyper-masculine logic of reality television and extreme
 sports. It also elevates death over life, selfishness over compassion, and economics
 over politics. But more so, it produces a kind of dysfunctional silence in the culture
 in the face of massive hardship and suffering, wiping out society’s collective mem­
-ories of moral decency.
+ories of moral decency.</p>
 
-There is more than moral indifference and political cynicism at work here.
+<p>There is more than moral indifference and political cynicism at work here.
 There is also a culture in which there is not much room for ideals, a culture that now
 considers public welfare a pathology, and responsibility solely a privatized and
 individual matter. Under this form of zombie politics and mode of casino capital­
@@ -1861,17 +1863,17 @@ recent study released by the _lohns Hopkins Children’s Center, claims that "la
 adequate health care may have contributed to the deaths of some 17,000 U.S. chil­
 dren over the past two decades."5 What do they have to say about a deregulated mar­
 ket system with its corrupt financial institutions shipping jobs abroad, swindling
-people out of their homes, and gutting the manufacturing base of U.S. industry?
+people out of their homes, and gutting the manufacturing base of U.S. industry?</p>
 
-What do they have to say about a political system largely controlled by corporate
+<p>What do they have to say about a political system largely controlled by corporate
 lobbyists? 0r insurance companies that pay employees bonuses when they main­
 tain a high level of rejections f`or procedures that can save people’s lives. Not much.
 All they see amid this growing landscape of human suffering and despair is the
 specter of socialism, which amounts to any government-sponsored program
 designed to offer collective insurance in the face of misfortune and promote the 
-pub­lic good.
+pub­lic good.</p>
 
-For many conservatives and right-wing extremists, a market-driven society
+<p>For many conservatives and right-wing extremists, a market-driven society
 represents more than a tirade against "big government." It constitutes a new kind
 of politics that privileges exchange values and quick profits over all non-commod­
 ified values, resists all forms of government intervention (except when it benefits
@@ -1879,9 +1881,9 @@ the rich and powerful and the defense industry), celebrates excessive individual
 and consolidates the power ofthe rich along with powerful corporations-current­
 ly coded as mammoth financial institutions such as the insurance companies, phar­
 maceutical companies, and big banks. Moreover, the ability of this previously
-devalued market-driven system to endlessly come back to life is truly astonishing.
+devalued market-driven system to endlessly come back to life is truly astonishing.</p>
 
-How can the Dick Armeys of the world be featured in Tb: New York Times as if their
+<p>How can the Dick Armeys of the world be featured in Tb: New York Times as if their
 ideology and ruthlessness is worthy of a major news story? How is it that an end­
 less number of ex and current politicians who are wedded at the hip to corporate
 interests can be taken seriously as spokespersons for the larger public?
@@ -1906,9 +1908,9 @@ devoted little time to creating contingent plans in the event that one of its of
 oil wells failed, which, of course, it did. Such an investment would have cut into
 quick profits, and now billions will be spent, most likely taxpayers’ money, to fix the
 ecological and human damage done along one of the most beautiful coastlines in
-America.
+America.</p>
 
-What is unique and particularly disturbing about this hyper-market-driven
+<p>What is unique and particularly disturbing about this hyper-market-driven
 notion of economics is that it makes undemocratic modes of education central to
 its politics and employs a mode of pedagogy aimed at displacing and shutting
 down all vestiges of the public sphere that cannot be commodified, privatized, and
@@ -1934,9 +1936,9 @@ here is not just the rise of political theater or media-driven spectacle in Amer
 society but a populism that harbors a deep disdain for democracy and no longer
 understands how to define itself outside of the imperatives of capital accumulation,
 shopping, and the willingness to view more and more individuals and groups as sim­
-ply disposable, waste products no longer worthy ofthe blessings of consumption.
+ply disposable, waste products no longer worthy ofthe blessings of consumption.</p>
 
-As moral and ethical considerations are decoupled from the calculating logic
+<p>As moral and ethical considerations are decoupled from the calculating logic
 and consequences of all economic activity, the horrendous human toll in suffering
 and hardship being visited upon all segments of the American population is lost in
 the endless outburst of anger, if not hysteria, promoted by right-wing extremists
@@ -1957,9 +1959,9 @@ word "death," as in the fictitious claim about Obama’s death panels, is tellin
 a projection of their own politics than a serious critique of health care reform leg­
 islation. Despite a change in U.S. political leadership, these forces, if left unchecked,
 will continue to promote and fight for a transformation of democratic governance
-and citizenship until they are both completely destroyed.
+and citizenship until they are both completely destroyed.</p>
 
-As democracy is increasingly reduced to an empty shell and the rise of a cor­
+<p>As democracy is increasingly reduced to an empty shell and the rise of a cor­
 porate and punishing state looms heavily on the twenty-first-century horizon, the
 market-driven principles of deregulation, radical individualism, and privatization
 penetrate all aspects of daily life. Such market-driven values and their accompany­
@@ -1977,9 +1979,9 @@ whom the prisons are now deputized as the only welfare institutions left in Amer
 or, if they are lucky, who find themselves in one of the emerging tent cities found
 under bridges and located in other invisible landscapewused in the past to get rid
 of waste products, but now used to dump poor working-class and middle-class fam­
-ilies.
+ilies.</p>
 
-Where is this hysteria going, given that we now have in office an administra­
+<p>Where is this hysteria going, given that we now have in office an administra­
 tion that refuses to fight for the ideals it campaigned on? We get a glimpse of where
 it is going in the tirades let loose recently by people like Sarah Palin, a dumber-than­
 dumb version of Ayn Rand, and Representative Michele Bachmann, Republican of
@@ -1998,17 +2000,17 @@ by isolated individuals. This politics of hysteria and ruthlessness that is now 
 display in America is not just an attack on the social state, big govemment, the pub­
 lic sphere, and the common good but on the very essence of politics and democra­
 cy. This is truly a politics ofthe hyper-dead, a zombie politics that celebrates death
-over life.
+over life.</p>
 
-Torturing Children:
-Bush’s Legacy and Democracy's Failure Salvos from the Culture of Cruelty
+<h3>Torturing Children:<br>
+Bush’s Legacy and Democracy's Failure Salvos from the Culture of Cruelty</h3>
 
-owhere is there a more disturbing, if not horrifying, example of the relation­
-ship between a culture of cruelty and the zombie politics of irresponsibility
-than in the resounding silence that surrounds the torture of children under the pres­
-idency of George W. Bush-and the equal moral and political failure of the Obama
-administration to address and rectify the conditions that made it possible. But if
-we are to draw out the dark and hidden parameters of such crimes, they must be
+<p>So where is there a more disturbing, if not horrifying, example of the relation­ship between a 
+culture of cruelty and the zombie politics of irresponsibility
+than in the resounding silence that surrounds the torture of children under the pres­idency of 
+George W. Bush-and the equal moral and political failure of the Obama administration to address 
+and rectify the conditions that made it possible. But if we are to draw out the dark and hidden 
+parameters of such crimes, they must be
 made visible so men and women can once again refuse to orphan the law, justice,
 and morality. How we deal with the issue of state terrorism and its complicity with
 the torture of children will determine not merely the conditions under which we
@@ -2016,9 +2018,9 @@ are willing to live but whether we will live in a society in which moral respons
 ity disappears altogether and whether we will come to find ourselves living under
 either a democratic or authoritarian social order. This is not merely a political and
 ethical matter but also a matter of how we take seriously the task of educating our­
-selves more critically in the fixture.
+selves more critically in the fixture.</p>
 
-We haven’t always looked away. When Emmett Till’s battered, brutalized,
+<p>We haven’t always looked away. When Emmett Till’s battered, brutalized,
 and broken 14-year-old body was open to public viewing in Chicago after he was
 murdered in Mississippi in 1955, his mother refused to have him interred in a closed
 casket. His mutilated and swollen head, his face disfigured and missing an eye, made
@@ -2032,9 +2034,9 @@ proves impossible to support. The image of young children being subjected to pro
 longed standing, handcuffed to the top of a cell door, doused with cold water,
 raped, and shocked with electrodes boggles the mind. These corrupting, degener­
 ate, and despicable practices reveal the utter moral depravity underlying the ratio­
-nales used to defend torture as a viable war tactic.
+nales used to defend torture as a viable war tactic.</p>
 
-There is an undeniable pathological outcome when the issue of national secu­
+<p>There is an undeniable pathological outcome when the issue of national secu­
 rity becomes more important than the survival of morality itself] resulting in some
 cases in the deaths of thousands of children-and with little public outrage. For
 instance, then Secretary of State Madeleine Albright, appearing on the national tele­
@@ -2048,13 +2050,14 @@ media and produced no outrage among the American public. As Rahul Mahajan
 points out, "The inference that Albright and the terrorists may have shared a com­
 mon rationale-a belief that the deaths of thousands of innocents are a price worth
 paying to achieve one’s political ends-does not seem to be one that can be made
-in the U.S. mass media."2
+in the U.S. mass media."2</p>
 
-More recentlyg Michael Haas has argued that in spite of the ample evidence that
+<p>More recentlyg Michael Haas has argued that in spite of the ample evidence that
 the United States has both detained and abused what may be hundreds of children
 in Iraq, Afghanistan, and Guantanamo, there has been almost no public debate
 about the issue and precious few calls for prosecuting those responsible for the tor­
-ture. He writes:
+ture. He writes:</p>
+<blockquote>
 The mistreatment of children is something not so funny that has been neglected on the road
 to investigations of and calls for prosecution of those responsible for torture. George W. Bush
 has never been asked about the abuse of children in American-run prisons in the "war on
@@ -2064,8 +2067,9 @@ have been anestcd in the first place. The best kept secret of Bush’s war crime
 sands of children have been imprisoned, tortured, and otherwise denied rights under the
 Geneva Conventions and related intemational agreements. Yet both Congress and the
 media have strangely failed to identify the very existence of child prisoners as a war crime.3
+</blockquote>
 
-While it is diHicult to confirm how many children have actually been detained, sex­
+<p>While it is diHicult to confirm how many children have actually been detained, sex­
 ually abused, and tortured by the Bush administration, there is ample evidence that
 such practices have taken place not only from the accounts of numerous journal­
 ists but also in a number of legal reports. One of the most profoundly disturbing
@@ -2079,9 +2083,9 @@ indicating that he was still in primary school, though other sources claim he wa
 around 15 or 16.4 ]awad denied the charges made against him by the Afghan
 police, claiming that "they tortured me.They beat me. They beat me a lot. One per­
 son told me, ‘If you don't confess, they are going to k.ill you.’ So, I told them any­
-thing they wanted to hear."5
+thing they wanted to hear."5</p>
 
-On the basis of a confession obtained through torture, _Iawad was turned over
+<p>On the basis of a confession obtained through torture, _Iawad was turned over
 to U.S. forces and detained first at Bagram and later at Guantanamo. This child,
 caught in the wild zone of permanent war and illegal legalities, has spent more than
 six years as a detainee. Unfortunately, the Obama administration, even after admit­
@@ -2091,9 +2095,9 @@ a federal judge claimed the government’s case was "riddled with holes," the Ob
 administration decided it would no longer consider _Iawad a "military detainee but
 would be held for possible prosecution in American civilian courts."6 This shame­
 fill decision takes place against any sense of reason or modicum of morality and jus­
-tice.
+tice.</p>
 
-Even Iawad’s former military prosecutor, Lt. Col. Darrel Vandeveld, a Bronze
+<p>Even Iawad’s former military prosecutor, Lt. Col. Darrel Vandeveld, a Bronze
 Star recipient, has stated that there "is no credible evidence or legal basis" to con­
 tinue his detention and that he does not represent a risk to anyone.7 In an affidavit
 filed with the American Civil Liberties Union (ACLU), he claimed "that at least
@@ -2105,9 +2109,9 @@ against jawad could not have been written by him because "jawad was fiinctional�
 ly illiterate and could not read or write [and ] the statement was not even in his
 native language of Pashto."9 The ACLU points out that "the written statement
 [that] allegedly contain[s] Mohammed’s confession and thumbprint is in Farsi,"
-which jawad does not read, write, or speak.1°
+which jawad does not read, write, or speak.1°</p>
 
-Vandeveld was so repulsed by the fact that all of the evidence used against _lawad
+<p>Vandeveld was so repulsed by the fact that all of the evidence used against _lawad
 was forcibly obtained through torture that he "first demanded that jawad be
 released, then, when Bush officials refused, unsuccessfully demanded to be relieved
 of his duty to prosecute and then finally resigned."11 Since resigning, he is now a
@@ -2116,9 +2120,9 @@ released. As Bob Herbert has written, "There is no credible evidence against jaw
 and his torture-induced confession has rightly been ruled inadmissible by a mili­
 taryjudge. But the administration does not feel that he has su&°ered enough."12 And
 yet _lawad was the subject of egregious and repugnant acts of torture from the
-moment he was captured in Afghanistan and later turned over to American forces.
+moment he was captured in Afghanistan and later turned over to American forces.</p>
 
-In a sworn affidavit, Colonel Vandeveld stated that _lawad had undergone
+<p>In a sworn affidavit, Colonel Vandeveld stated that _lawad had undergone
 extensive abuse at Bagram for approximately two months: "The abuse included the
 slapping of Mr. _Iawad across the face while Mr. ]awad’s head was covered with a
 hood, as well as Mr. ]awad’s having been shoved down a stairwell while both hood­
@@ -2135,18 +2139,18 @@ to kill him, and other intimidation. U.S. forces also subjected Mohammed to slee
 vation; interrogators' notes indicate that Mohammed was so disoliented at one point that
 he did not know whether it was day or night. Mohammed was also intimidated, frightened
 and deeply disturbed by the sounds of screams from other prisoners and rumours of other
-prisoners being beaten to death.15
+prisoners being beaten to death.15</p>
 
-The specifics of the conditions at Bagram under which _Iawad was confined as a child
+<p>The specifics of the conditions at Bagram under which _Iawad was confined as a child
 are spelled out in a military interrogator’s report:
 While at the BCP (Bagram Collection Point) he described the isolation cell as a small room
 on the second floor made of wood .... He stated that while he was held in the isolation cells,
 they kept him restrained in handcuffs and a hood over his head, also making him drink lots
 of water. He said the guards made him stand up and if he sat down, he would be
 beaten .... [He] stated that he was made to stand to keep him from sleeping and said when
-he sat down the guards would open the cell door, grab him by the throat and stand him up.
+he sat down the guards would open the cell door, grab him by the throat and stand him up.</p>
 
-He said they would also kick him and make him fall over, as he was wearing leg shackles
+<p>He said they would also kick him and make him fall over, as he was wearing leg shackles
 and was unable to take large steps. He said the guards would fasten his handcuffs to the 
 iso­lation cell door so he would be unable to sit down .... [He] said due to being kicked and beat­
 en at the BCR he experienced chest pains and difiiculty with urination."
@@ -2169,9 +2173,9 @@ over his treatment,]awad attempted suicide on December 25, 2003. Hints of such
 despair had been observed by one interrogator, who approached a military psychol­
 ogist and asked that the "techniques being applied to _lawad should be temporari­
 ly halted because they were causing him to dissociate, to crack up without providing
-good information."13
+good information."13</p>
 
-These techniques were particularly severe and, as Meteor Blades points out, can
+<p>These techniques were particularly severe and, as Meteor Blades points out, can
 cause "physical deterioration, panic, rage, loss of appetite, lethargy, paranoia, hallu­
 cinations, self-mutilation, cognitive dysfunction, disorientation and mental break­
 downs, any of which, alone or in combination, can spur the detainee to give
@@ -2183,9 +2187,9 @@ Lieutenant Colonel Vandeveld-engaged in a psychological assessment not to
 _lawad might have been suffering from. It was instead conducted to assist the inter­
 rogators in extracting information from Mr. jawad, even exploiting his mental vul­
 nerabilities to do so .... From my perspective, this officer had employed his or her
-professional training and expertise in a profoundly unethical manner."20
+professional training and expertise in a profoundly unethical manner."20</p>
 
-This is an egregious example of how the war on ICITOI, its reign of illegal legal­
+<p>This is an egregious example of how the war on ICITOI, its reign of illegal legal­
 ities, and its supportive culture of cruelty transforms members of a profession who
 take an oath to "do no harm" into military thugs who use their professional skills
 in the service of CIA and military interrogations and detainee torture-even the
@@ -2204,9 +2208,9 @@ guards" was not being held accountable for _Iawad’s subjection to the "frequen
 flyer" program.23 The govemment refused to supply any names or prosecute any­
 one involved in the program, citing their right to privacy, as if such a right overrides
 "allegations of torture or other cruel, inhuman or degrading treatment or punish­
-ment and the right of victims of human rights violations to remedy."24
+ment and the right of victims of human rights violations to remedy."24</p>
 
-The torture and abuse of the child detainee Mohammed ]awad continued up
+<p>The torture and abuse of the child detainee Mohammed ]awad continued up
 to about June 2, 2008, when he was "beaten, kicked, and pepper-sprayed while he
 was on the ground with his feet and hands in shackles, for allegedly not comply­
 ing with guards' instructions. Fifteen days later, there were still visible marks con­
@@ -2215,31 +2219,31 @@ and ribs."25 How the Obama administration could possibly defend building a
 criminal case against Mohammed jawad, given that he was under 18 years of age
 at the time of his arrest and had endured endless years of torture and abuse at the
 hands of the U.S. government, raises serious questions about the ethical and polit­
-ical integrity of this government and its alleged commitment to human rights.
+ical integrity of this government and its alleged commitment to human rights.</p>
 
-The case against this young man was so weak that _Iudge Ellen Segal Huvellc
+<p>The case against this young man was so weak that _Iudge Ellen Segal Huvellc
 has not only accused the government of "dragging [the case] out for no good rea­
 son," but also expressed alarm at how weak the government’s case was, stating in a
 refusal to give them an extension to amass new evidence against ]awad, "You’d bet­
 ter go consult real quick with the powers that be, because this is a case that’s been
 screaming at everybody for years. This case is an outrage to me .... I am not going
-to sit up here and wait for you to come up with new evidence at this late hour ....
+to sit up here and wait for you to come up with new evidence at this late hour ....</p>
 
-This case is in shambles."26 On july 30, 2009,_Iudge Huvellc ordered the Obama
+<p>This case is in shambles."26 On july 30, 2009,_Iudge Huvellc ordered the Obama
 administ1'ation to release _lawad by late August. She stated, "After this horrible, long,
 tortured history, I hope the government will succeed in getting' him back
 home .... Enough has been imposed on this young man to date."27 The New York
 Times reported, in what can only be interpreted as another example of bad faith on
 the part ofthe Obama administration, that the justice Department responded to
 ]udge Huvelle’s ruling by suggesting that "they were studying whether to file civil­
-ian criminal charges against Mr. Jawad. If they do, officials say, he could be trans­
-ferred to the United States to face charges, instead of being sent to Afghanistan,
+ian criminal charges against Mr. Jawad. If they do, officials say, he could be 
+trans­ferred to the United States to face charges, instead of being sent to Afghanistan,
 where his lawyers say he would be released to his mother."23 In August of 2009,
-Mohammed Jawad was flown from Cuba to Afghanistan and released to his fam­
-ily. The U.S. government claims the criminal investigation is still open, but the
-chance of such an investigation taking place is now unlikely.
+Mohammed Jawad was flown from Cuba to Afghanistan and released to his fam­ily. The U.S. 
+government claims the criminal investigation is still open, but the
+chance of such an investigation taking place is now unlikely.</p>
 
-Even more disturbing are statements by ]awad’s defense lawyers claiming that
+<p>Even more disturbing are statements by ]awad’s defense lawyers claiming that
 the witnesses who may be used in bringing a criminal case against _lawad were paid
 by the government for their testimony. According to U.S. Marine Corps Major Eric
 Montalvo, one of ]awad’s lawyers, all of the alleged witnesses "received some sort
@@ -2249,9 +2253,9 @@ moral deception and sleazy illegality is straight from the playbook of high-leve
 Republican operatives in the Bush/Cheney administration. Moreover, this response
 goes to the heart of the contradiction between Obama as an iconic symbol of a more
 democratic and hopeful future and the reality of an administration that is capable
-of reproducing some of the worst policies of the Bush administration.
+of reproducing some of the worst policies of the Bush administration.</p>
 
-Iawad’s case is about more than legal incompetence. It is also about the descent
+<p>Iawad’s case is about more than legal incompetence. It is also about the descent
 into the "dark side" of a zombie politics where a culture of cruelty reigns and the
 rule of law is on the side of the most frightening of antidemocratic practices, point­
 ing to a society in which terror becomes as totalizing as the loss of any sense of eth­
@@ -2259,14 +2263,15 @@ ical responsibility. Torture of this type, especially of a child, would appear t
 more in common with the techniques used by the Cvestapo, Pol Pot, the Pinochet
 thugs in Chile, and the military junta in Argentina in the 1970s rather than with
 the United States-or at least the democratic country the United States has histor­
-ically claimed to be.
+ically claimed to be.</p>
 
-SECT|oN II
-Zombie Theater and the
-Spectacle of llliteracy
-The Spectacle of Illiteracy and the Crisis of Democracy
+<h2>SECTION II</h2>
 
-Wright Mills argued fifty years ago that one important measure of the
+<h3>Zombie Theater and<br>
+the Spectacle of llliteracy</h3>
+<h3>The Spectacle of Illiteracy and the Crisis of Democracy</h3>
+
+<p>Wright Mills argued fifty years ago that one important measure of the
 ¢demise of vibrant democracy and the corresponding impoverishment of
 political life can be found in the increasing inability ofa society to translate private
 troubles to broader public issues.l This is an issue that both characterizes and threat­
@@ -2292,9 +2297,9 @@ the media’s desire for balance and objective news is not just disengenuous but
 relinquishes any sense of ethical responsibility by failing to make a distinction
 between an informed argument and an unsubstantiated opinion. Witness the racist
 hysteria unleashed by so many Americans and the media over the building of an
-Islamic cultural center near Ground Zero.
+Islamic cultural center near Ground Zero.</p>
 
-The collapse of joumalistic standards fmds its counterpart in the rise of civic
+<p>The collapse of joumalistic standards fmds its counterpart in the rise of civic
 illiteracy An African American president certainly makes the Rush Limbaughs of
 the world even more irrational than they already are, just as the lunatic fringe
 seems to be able to define itself only through a mode of thought whose first prin­
@@ -2323,9 +2328,9 @@ al system and the growing ability of anti-democratic forces to use the education
 force of the culture to promote the new illiteracy. As this widespread illiteracy has
 come to dominate American culture, we have moved from a culture of questioning
 to a culture of shouting and in doing so have restaged politics and power in both
-unproductive and anti-democratic ways.
+unproductive and anti-democratic ways.</p>
 
-Think of the forces at work in the larger culture that work overtime to situate
+<p>Think of the forces at work in the larger culture that work overtime to situate
 us within a privatized world of fantasy, spectacle, and resentment that is entirely
 removed from larger social problems and public concerns. For instance, corporate
 culture with its unrelenting commercials carpet-bombs our audio and visual fields
@@ -2344,9 +2349,9 @@ social issues are, as Chris Hedges points out, defeatists, a negative force that
 meates all aspects of our livewfrom our classrooms and the screen culture of real­
 ity television to the barrage of violent video games and the blood letting in sports
 such as popular wrestling~endlessly at work in developing modes of masculinity
-that celebrate toughness, violence, cruelty, moral indifference, and misogyny.
+that celebrate toughness, violence, cruelty, moral indifference, and misogyny.</p>
 
-All of these forces, whose educational influence should never be underestimat­
+<p>All of these forces, whose educational influence should never be underestimat­
 ed, constitute a new type of illiteracy, a kind of civic illiteracy in which it becomes
 increasingly impossible to connect the everyday problems that people face with larg­
 er social forces-thus depoliticizing their own sense of agency and making politics
@@ -2373,9 +2378,9 @@ are now modeled around the narcissistic, privatized, and self-indulgent needs of
 sumer and celebrity culture and the dictates of the allegedly free market. How else
 to explain the rage against big government but barely a peep against the rule of big
 corporations who increasingly control not only the government but almost every vital
-aspect of our lives from health care to the quality of our environment?
+aspect of our lives from health care to the quality of our environment?</p>
 
-Stripped of its ethical and political importance, the public has been largely
+<p>Stripped of its ethical and political importance, the public has been largely
 reduced to a space where private interests are displayed, and the social order increas­
 ingly mimics a giant Dx Pbil show where notions of the public register as simply a
 conglomeration of private woes, tasks, conversations, and problems. Most impor­
@@ -2387,9 +2392,9 @@ itself This is worth repeating. Emptied of any substantial content, democracy
 appears imperiled as individuals are unable to translate their privately suffered mis­
 ery into genuine public debate, social concerns, and collective action. This is a
 form of illiteracy that is no longer marginal to American society but is increasing­
-ly becoming one of its defining and more frightening features.
+ly becoming one of its defining and more frightening features.</p>
 
-The raging narcissism that seems to shape every ad, film, television program,
+<p>The raging narcissism that seems to shape every ad, film, television program,
 and appeal now mediated through the power of the corporate state and consumer
 society is not merely a clinical and individual problem. It is the basis for a new kind
 of mass illiteracy that is endlessly reproduced through the venues of a number of
@@ -2413,9 +2418,9 @@ polit­ical sensibilities and conceive of ourselves as critical citizens, engage
 lectuals, and social agents. _lust as an obsession with the private is at odds with a 
 pol­itics informed by public consciousness, it also burdens politics by stripping it of the
 kind of political imagination and collective hope necessary for a viable notion of
-meaning, hope, and political agency.
+meaning, hope, and political agency.</p>
 
-Civic literacy is about more than enlarging the realm of critique and affirming
+<p>Civic literacy is about more than enlarging the realm of critique and affirming
 the social. It is also about public responsibility, the struggle over democratic public
 life, and the importance of critical education in a democratic society The U.S. gov­
 ernment is more than willing to invest billions in wars, lead the world in arms sales,
@@ -2428,9 +2433,9 @@ problems, which are deeply rooted in larger social, economic, and political forc
 have marked the emergence of the corporate state, a deadly form of racism parad­
 ing as color blindness, and a ruthless market fundamentalism since the 1970s, but
 it is a precondition for locking individuals into a system in which they are complic­
-itous in their own exploitation, disposability, and potential death.
+itous in their own exploitation, disposability, and potential death.</p>
 
-The new illiteracy is about more than not knowing how to read the book or the
+<p>The new illiteracy is about more than not knowing how to read the book or the
 word; it is about not knowing how to read the world. The challenge it poses in a
 democracy is one of both learning how to reclaim literacy so as to be able to nar­
 rate oneself and the world from a position of agency. But it is also about unlearn­
@@ -2442,13 +2447,13 @@ an imagined democracy. This is not merely a political issue but an educational i
 one that points to the need for modes of civic education that provide the knowl­
 edge and competencies for young and old alike to raise important questions about
 what education and literacy itself should accomplish in a democracy.5 This is not
-an issue we can ignore too much longer.
+an issue we can ignore too much longer.</p>
 
-Zombie Politics and the
-Challenge of Right-Wing
-Teaching Machines Rethinking the Importance of the Powell Memo
+<h3>Zombie Politics and<br>
+the Challenge of Right-Wing</h3>
+<h3>Teaching Machines Rethinking the Importance of the Powell Memo</h3>
 
-Paul Krugman, the Nobel Prize-winning economist, echoing the feelings of
+<p>Paul Krugman, the Nobel Prize-winning economist, echoing the feelings of
 many progressives, in 2009 wrote in The New York Times about how dismayed
 he was over the success that right-wing ideologues had in undercutting Obama’s
 health care bill-watering it down to a shadow of what it could have been before
@@ -2461,9 +2466,9 @@ that after almost three decades the political scene is still under the sway of w
 calls the "zombie doctrine of Reaganism"-the notion that any action by govern­
 ment is bad, except when it benefits the military, corporations, and thc rich. Clearly,
 for Knigman, zombie Reaganism appears once again to be shaping policies under
-the Obama regime.
+the Obama regime.</p>
 
-And yet, updated neoliberal Reaganism with its hatred of the social state, its
+<p>And yet, updated neoliberal Reaganism with its hatred of the social state, its
 celebration of unbridled self-interest, its endless quest to privatize everything, and
 its unflinching support for the deregulation of the economic system eventually
 brought the country to economic near-collapse. lt also produced enormous suffer­
@@ -2482,9 +2487,9 @@ ited right-wing politics is far from dead. In fact, Krugman argues that one of t
 great challenges ofthe current moment is to try to understand the conditions that
 have allowed it to once again shape American politics and culture, given the enor­
 mous problems, including the current recession, it has produced at all levels of'
-American society in the last thirty years.
+American society in the last thirty years.</p>
 
-Part of the explanation for the enduring quality of such a destructive politics
+<p>Part of the explanation for the enduring quality of such a destructive politics
 can be found in the lethal combination of money power, and education that the right
 wing has had a stranglehold on since the early 1970s. Financial power plus an
 insightful understanding of the importance of cultural politics has allowed conser­
@@ -2502,9 +2507,9 @@ said, learned, and debated in the public sphere. And one starting point for unde
 standing this problem is what has been called the Powell Memo-released on
 August 23, 1971-authored by Lewis F. Powell, who would later be appointed to
 the Supreme Court ofthe United States. Powell sent the memo to the U.S. Chamber
-of Commerce with the title "Attack on the American Free Enterprise System."
+of Commerce with the title "Attack on the American Free Enterprise System."</p>
 
-This memo is important because it reveals the power that conservatives attrib­
+<p>This memo is important because it reveals the power that conservatives attrib­
 uted to the political nature of education and the significance this view had in shap­
 ing the long-term strategy they put into place in the 1960s and 1970s to win an
 ideological war against liberal intellectuals, who argued for holding government and
@@ -2519,9 +2524,9 @@ Lynde and Harry Bradley Foundation. The Powell Memo is important because it
 is the most succinct statement, if not the founding document, for establishing a the­
 oretical framework and political blueprint for the current assault on any vestige of
 democratic public life that does not subordinate itself to the logic of the allegedly
-free market.
+free market.</p>
 
-Initially, Powell identified the American college campus "as the single most
+<p>Initially, Powell identified the American college campus "as the single most
 dynamic source" for producing and housing intellectuals "who are unsympathetic
 to the [fiee] enterprise system."2 He was particularly concerned about the lack of
 conservatives in social sciences faculties and urged his supporters to use an appeal
@@ -2533,9 +2538,9 @@ imbalance of many faculties."3 Powell insisted that "the basic concepts of balan
 fairness and truth are difficult to resist, if properly presented to boards of trustees,
 by writing and speaking, and by appeals to alumni associations and groups."4 But
 Powell was not only concerned about what he perceived as the need to enlist high­
-er education as a bastion of conservative, free-market ideology.
+er education as a bastion of conservative, free-market ideology.</p>
 
-The Powell Memo was designed to develop a broad-based strategy both to
+<p>The Powell Memo was designed to develop a broad-based strategy both to
 counter dissent and develop a material and ideological infiastructure with the capa­
 bility to transform the American public consciousness through a conservative ped­
 agogical commitment to reproduce the knowledge, values, ideology, and social
@@ -2544,9 +2549,9 @@ tive democracy was primarily a pedagogical and political struggle designed both 
 win the hearts and minds of the general public and to build a power base capable
 of eliminating those public spaces, spheres, and institutions that nourish and sus­
 tain what Samuel Huntington would later call (in a 1975 study on the "governabil­
-ity of democracies" by the Trilateral Commission) an "excess of democracy."5
+ity of democracies" by the Trilateral Commission) an "excess of democracy."5</p>
 
-Central to such efforts was Powell’s insistence that conservatives nourish a new gen­
+<p>Central to such efforts was Powell’s insistence that conservatives nourish a new gen­
 eration of scholars who would inhabit the university and function as public intel­
 lectuals actively shaping the direction of policy issues. He also advocated the
 creation of a conservative speaker’s bureau, staffed by scholars capable of evaluat­
@@ -2554,18 +2559,18 @@ ing "textbooks, especially in economics, political science and sociology."6 In a
 tion, he advocated organizing a corps of conservative public intellectuals who would
 monitor the dominant media, publish their own scholarly journals, books, and
 pamphlets, and invest in advertising campaigns to enlighten the American people
-on conservative issues and policies.
+on conservative issues and policies.</p>
 
-The Powell Memo, while not the only influence, played an important role in
+<p>The Powell Memo, while not the only influence, played an important role in
 convincing a "cadre of ultraconservative and self-mythologizing millionaires bent
 on rescuing the country from the hideous grasp of Satanic liberalism"7 to match their
 ideological fervor with their pocketbooks by "disbursing the collective sum of
 roughly $3 billion over a period of thirty years in order to build a network of pub­
 lic intellectuals, think tanks, advocacy groups, foundations, media outlets, and pow­
 erful lobbying interests."8 As Dave _lohnson points out, the initial eH°ort was slow
-but effective:
+but effective:</p>
 
-In 1973, in response to the Powell memo, _loseph Coors and Christian-right leader Paul
+<p>In 1973, in response to the Powell memo, _loseph Coors and Christian-right leader Paul
 Weyrich founded the Heritage Foundation. Coors told Lee Edwards, historian of the
 Heritage Foundation, that the Powell memo persuaded him that American business was
 "ignoring a crisis." In response, Coors decided to help provide the seed fimding for the cre­
@@ -2575,9 +2580,9 @@ Simon (author ofthe influential 1979 bookA Time jbr Truth), began funding simila
 nizations in concert with "the Four Sisters"-Richard Mellon Scaife's various foundations,
 the Lynde and Harry Bradley Foundation, the Olin Foundation and the Smith Richardson
 Foundation-along with Coors’s foundations, foundations associated with the Koch oil fam­
-ily, and a group of large corporations.9
+ily, and a group of large corporations.9</p>
 
-The most powerful members of this group were ]oseph Coors in Denver, Richard
+<p>The most powerful members of this group were ]oseph Coors in Denver, Richard
 Mellon Scaife in Pittsburgh, _lohn Olin in New York City, David and Charles
 Koch in Wichita, the Smith Richardson family in North Carolina, and Harry
 Bradley in Milwaukee-all of whom agreed to finance a number of right-wing think
@@ -2591,7 +2596,7 @@ the Cato Institute, the Heritage Foundation, the American Enterprise Institute, 
 Manhattan Institute, the Hoover Institution, the Claremont Institute, the American
 Council of Trustees and Alumni, [the] Middle East Forum, Accuracy in Media, and
 the National Association of Scholars, as well as [David] Horowitz’s Center for the
-Study of Popular Culture."10
+Study of Popular Culture."10</p>
 
 <p>For several decades, right-wing extremists have labored to put into place an
 ultra-conservative re-education machine-an apparatus for producing and dissem­
@@ -4579,16 +4584,16 @@ sur­veillance has become so widespread that one school in Rosemont, Pennsylvani
 issued over 1,800 laptops to high school students and then used the webcams fit­
 ted on the computers to spy on them. The mainstream media hardly blinked, while
 the public yawned.</p>
-
+<!-- bottom up checked to here -->
 <p>Common sense may be good or bad in terms of its value, but in all cases it is
 unreflective sense and as such short-cuts the types of critical inquiry fundamental
 to an engaged public and an aspiring society. But it is particularly dangerous when
 it becomes the pedagogical message of choice for much of the conservative-driven
 media. Surely, common sense is of little help in explaining the existence of brain
 research that is now being used to understand and influence how people respond
-to diverse sales and political pitches. Nor does it explain why there is not a huge pub­
-lic outcry over the emergence of a field such as neuromarketing, designed by politi­
-cians and corporations who are "using MRIS, EEGS, and other brain-scan and
+to diverse sales and political pitches. Nor does it explain why there is not a huge pub­lic 
+outcry over the emergence of a field such as neuromarketing, designed by politi­cians 
+and corporations who are "using MRIS, EEGS, and other brain-scan and
 medical technology to craft irresistible media messages designed to shift buying
 habits, political beliefs and voting patterns."15 Nor does it explain the politics or the
 lack of public resistance to food industries using the new media to market junk food
@@ -4600,19 +4605,19 @@ matters of agency are now removed from any sense of responsibility, relegated to
 brave new world of genetic determinism.</p>
 
 <p>Under such circmnstances, memory is lost; history is erased; knowledge becomes
-militarized, and education becomes more of a tool of domination than of empow­
-erment. One result is not merely a collective ignorance over the meaning, nature,
-and possibilities of politics but a disdain for democracy itselfthat provides the con­
-dition for a lethal combination of political apathy and cynicism on the one hand and
-a populist anger and an ethical hardening ofthe culture on the other. Symbolic and
-real violence are now the defining features of American society. Instead of appeal­
-ing to the principles of social justice, moral responsibility, and civic courage, the anti­
-public intellectuals and the market-driven institutions that support them laud
+militarized, and education becomes more of a tool of domination than of empow­erment. 
+One result is not merely a collective ignorance over the meaning, nature,
+and possibilities of politics but a disdain for democracy itselfthat provides the con­dition 
+for a lethal combination of political apathy and cynicism on the one hand and
+a populist anger and an ethical hardening ofthe culture on the other. Symbolic and 
+real violence are now the defining features of American society. Instead of appeal­ing 
+to the principles of social justice, moral responsibility, and civic courage, the 
+anti­public intellectuals and the market-driven institutions that support them laud
 common sense. What they don’t mention is that underlying such appeals is a hatred
 not merely for govemment but for democracy itself The rage will continue and the
 flirtations with violence will mount. Going rogue is now a metaphor for the death
-of democratic values and support for modes of symbolic and potentially real vio­
-lence in which all vestiges of thought, self-reflection, and dialogue are destroyed.</p>
+of democratic values and support for modes of symbolic and potentially real 
+vio­lence in which all vestiges of thought, self-reflection, and dialogue are destroyed.</p>
 
 <p>As I have pointed out throughout this book, while the presence of zombies
 seems to dominate the news and the American political and cultural landscape, it
@@ -4620,40 +4625,40 @@ does not signal the end of democratic politics. In fact, the increasing presence
 hyper-dead makes the need for resistance to such a politics all the more obvious,
 especially regarding those public spheres and institutions that produce knowledge,
 ideas, desires, and values crucial to an aspiring democracy. While the struggle for
-reclaiming the government as a responsible social state capable of both placing lim­
-its on capital and providing protections for all Americans has to be central to such
+reclaiming the government as a responsible social state capable of both placing lim­its on 
+capital and providing protections for all Americans has to be central to such
 a challenge, so does the struggle over culture as a form of public pedagogy. The likes
 of Beck, Limbaugh, and Palin matter not simply because of what they say, but
-because of the emergence and influence of anti-democratic institutions and the for­
-mations of capital that support them.</p>
+because of the emergence and influence of anti-democratic institutions and the for­mations 
+of capital that support them.</p>
 
-<p>Power does not work simply through the control and influence of wealth,
-income, and resources. lt also has to legitimate itself] and for that it needs to cre­
-ate a pedagogical culture through which it can promote its ideologies and values.</p>
+<p>Power does not work simply through the control and influence of wealth, income, and 
+resources. lt also has to legitimate itself] and for that it needs to cre­ate a pedagogical 
+culture through which it can promote its ideologies and values.</p>
 
 <p>Vast right-wing cultural apparatuses now exist in the mainstream media, on college
 campuses, and in the government-a kind of stealth pedagogical machine that does
 everything it can to promote its political agenda. The current fiasco in Texas and
 Arizona speaks to the seriousness of such a struggle as ethnic studies are banned,
-social studies curricula are rewritten so as to erase any vestige of progressive histo­
-ry, and freedom is sabotaged as it is abstracted from politics and reduced to the prac­
-tice of consumerism. Mythic history now combines with a notion of freedom that
-is as reactionary as it is depoliticizing. Zombie politics thrives on a culture of blind­
-ing illiteracy, and for such a culture to be challenged, labor, youth, unions, and other
-groups must unite over the need to address at the very least two pressing and inter­
-related issues.</p>
+social studies curricula are rewritten so as to erase any vestige of progressive histo­ry, 
+and freedom is sabotaged as it is abstracted from politics and reduced to the prac­tice of 
+consumerism. Mythic history now combines with a notion of freedom that
+is as reactionary as it is depoliticizing. Zombie politics thrives on a culture of 
+blind­ing illiteracy, and for such a culture to be challenged, labor, youth, unions, and 
+other groups must unite over the need to address at the very least two pressing and 
+inter­related issues.</p>
 
-<p>Effective resistance to zombie politics first requires addressing the political, eco­
-nomic, and cultural conditions of massive inequality produced by casino capitalism.
+<p>Effective resistance to zombie politics first requires addressing the political, 
+eco­nomic, and cultural conditions of massive inequality produced by casino capitalism.
 These conditions must be challenged in every sphere in which such injustices
 appear. Such inequality is destructive of human lives and human societies, defines
-matters of life and death-whose life is valued and whose life only counts as redun­
-dant and disposable-and determines which members of society will have access to
+matters of life and death-whose life is valued and whose life only counts as redun­dant 
+and disposable-and determines which members of society will have access to
 vital resources and which ones won’t.16 This is demonstrated by the inequitable
-funding of public schools and political campaigns, the poisonous influence of cor­
-porate lobbyists in shaping legislation that benefits corporations and the rich,
-access to quality health care based on wealth rather than need, and the massive cor­
-rupt financial institutions that make a mockery of democracy while providing a
+funding of public schools and political campaigns, the poisonous influence of cor­porate 
+lobbyists in shaping legislation that benefits corporations and the rich,
+access to quality health care based on wealth rather than need, and the massive cor­rupt 
+financial institutions that make a mockery of democracy while providing a
 beachhead for expanding inequality in every aspect of our lives.</p>
 
 <p>The second most pressing issue involves the educational force of political and
@@ -4663,14 +4668,14 @@ powerful influence now used by the hyper-dead to promote their zombie politics.<
 
 <p>These spheres must be recovered. lntellectuals, parents, unions, workers, and other
 concerned citizens need to reclaim those places that give the voiceless a voice,
-allow those marginalized by class and race to speak, and offer everyone the oppor­
-tunity to reclaim an A.merica that currently oH`ers them little hope in terms of a bet­
-ter and more just life. This not only means using altemative media to counter the
+allow those marginalized by class and race to speak, and offer everyone the opportunity 
+to reclaim an A.merica that currently oH`ers them little hope in terms of a bet­ter and 
+more just life. This not only means using altemative media to counter the
 hate-mongers, the conservative foundations, and right-wing radio and television,
 but also organizing in churches, synagogues, mosques, union halls, and public
 schools in order to collectively reclaim such institutions as democratic public spheres
-while gaining the experience needed to challenge zombie pedagogy in all of its man­
-ifestations throughout the culture and society
+while gaining the experience needed to challenge zombie pedagogy in all of its 
+man­ifestations throughout the culture and society
 Hannah Arendt has written that there are turning points in history when "the
 decline of the old, the birth of the new, is not necessarily an affair of continuity."</p>
 
@@ -4683,11 +4688,11 @@ to emerge and assert the imperatives of a democracy that values trust, compassio
 equality, freedom, and social justice. As Americans, we must choose now whether
 to fall back into a pit of despair and death, ever widening to contain all but the
 immensely rich and powerful, or to move forward as politicized individuals and
-organized communities into a fixture rooted in and sustained by democratic prin­
-ciples. The "not yet" of this presently unknown iilture demands of us that we con­
-nect thoughtiiil critique and outrage to a notion of realizable hope and that we heed
+organized communities into a fixture rooted in and sustained by democratic prin­ciples. 
+The "not yet" of this presently unknown iilture demands of us that we con­nect thought
+with critique and outrage to a notion of realizable hope and that we heed
 a rallying cry for justice against a zombie politics in which democracy has been
-reduced to a graveyard for the hyper-dead. Hopefully, the voices of reason and jus­
-tice will recognize how serious this threat to democracy really is, and when they do,
-they will surely understand what Gil Scott-Heron meant when he talked about win­
-ter in America.</p>
+reduced to a graveyard for the hyper-dead. Hopefully, the voices of reason and 
+jus­tice will recognize how serious this threat to democracy really is, and when they do,
+they will surely understand what Gil Scott-Heron meant when he talked about win­ter in 
+America.</p>
