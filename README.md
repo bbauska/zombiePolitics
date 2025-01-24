@@ -1,63 +1,7 @@
 <!-- Zombie Politics -->
 🧟
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ index.html of zombiePolitics ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<head>
-  <meta charset="utf-8" />
-  <link rel="shortcut icon" type="image/jpg" href="/images/favicon/favicon.ico" />
-
-  <!-- meta viewport, title, desc, robot for SEO -->
-  <meta name="author" content="Brian Bauska">
-  <meta name="title" content="Zombie Politics">
-  <meta name="description" content="Zombie Politics and Culture in the Age of Casino Capitalism.
-    Education is the point at which we decide whether we love the world enough to assume
-    responsibility for it and by the same token save it from ruin which, except for renewal, 
-    except for the coming of the new and young, would be inevitable. And education, too, is 
-    where we decide whether we love our children enough not to expel them from our world and 
-    leave them to their own devices, nor to strike from their hands their chance of 
-    undertaking some­ thing new, something unforeseen by us, but to prepare them in advance 
-    for the task of renew­ing a common world.">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <meta name=”robots” content="index, follow">
-
-  <title>Zombie Politics</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon/favicon.ico" />
-  <link rel="canonical" href="https://z.bauska.org">
-  <link rel="stylesheet" href="./css/style.css">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
-<!-- favicon images -->
-  <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="/images/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-  <link rel="manifest" href="/manifest.json">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/images/ms-icon-144x144.png">
-  <meta name="theme-color" content="#ffffff">
-</head>
-<body>
-  <div id="wrapper">
-    <div id="container">
-      <section class="open-book">
-      
-        <header>
           <h6>Zombie Politics</h6>
           <h6>Brian Bauska (2025)</h6>
-        </header>
-        <article>
           <h2 class="chapter-title">The Rise of Zombie Politics, Democracy 
             and Threat of Authoritarianism (cadaver animatum)</h2>
           
@@ -68,14 +12,10 @@
             leave them to their own devices, nor to strike from their hands their chance of 
             undertaking some­thing new, something unforeseen by us, but to prepare them in advance 
             for the task of renew­ing a common world.</p>
-        </article>
         
         <h2 class="chapter-title">Zombie Politics<br>
             and Culture in the Age of Casino Capitalism</h2>
 
-        <header></header>
-
-        <article>
           <dl>
             <dt><strong>zɑːm.bi</strong></dt>
             <dd>
@@ -90,15 +30,11 @@
                 does not experience consciousness.</p>
             </dd>
           </dl>
-        </article>
 
-        <h2 class="chapter-title">The Rise<br>
+	<h2 class="chapter-title">The Rise<br>
           of<br>
           Zombie<br>
 		  Politics</h2>
-        <header></header>
-
-        <article>
           <p>In the world of popular culture, zombies seem to be everywhere, as evidenced by
             the relentless slew of books, movies, video games, and comics. From the haunt­ing Night 
             of tbe Living Dead to the comic movie Zombieland, the figure of the zom­bie has captured 
@@ -236,14 +172,11 @@
             inevitably follows catastrophe is not new, but the current politics of death has
             reached new heights and threatens to transform a weak democracy into a full­
             fledged authoritarian state.</p>
-        </article>
 
         <h2 class="chapter-title">A Turn to the Dark<br>
 		Side of Politics</h2>
-        <header></header>
-        
-        <article>
-          <p>The American media, large segments of the public, and many educators widely
+
+	  <p>The American media, large segments of the public, and many educators widely
             believe that authoritarianism is alien to the political landscape of American 
             soci­ety. Authoritarianism is generally associated with tyranny and governments that
             exercise power in violation of the rule of law. A commonly held perception of the
@@ -301,13 +234,10 @@
             and the dismantling of social services and social safety nets as part of a larger 
             campaign of ushering in the corporate state and the reign of finance capital?
           </p>
-        </article>
 
-        <h2 class="chapter-title">Authoritarianism<br>
+	<h2 class="chapter-title">Authoritarianism<br>
 		with a Friendly Face</h2>
-        <header></header>
 
-        <article>
           <p>In the minds of the American public, the dominant media, and the accommodat­ing 
             pundits and intellectuals, there is no sense of how authoritarianism in its soft 
             and hard forms can manifest itself as anything other than horrible images of 
@@ -436,12 +366,9 @@
             social and political amnesia works through celebrity culture and its counterpart in 
             corporate-driven news, tele­vision, radio, and entertainment to produce a culture of 
             stupidity, censorship, and diversionary spectacles.</p>
-        </article>
 
         <h2 class="chapter-title">DEPOLITICIZING FREEDOM<br><br>AND AGENCY</h2>
-        <header></header>
         
-        <article>
           <p>Agency is now defined by a neoliberal concept of Eeedom, a notion that is largely
             organized according to the narrow notions of individual self-interest and limited to
             the freedom from constraints. Central to this concept is the freedom to pursue one's
@@ -557,12 +484,9 @@
             called the U.S. Army, Air Force, Navy and Marine Corps."25 Freedom in this discourse 
             is inextricably wedded to state and military violence and is a far cry from 
             any semblance of a claim to democracy.</p>
-        </article>
 
         <h2 class="chapter-title">Zombie Politics and the Culture of Cruelty</h2>
-        <header></header>
         
-        <article>
           <p>Another characteristic of an emerging authoritarianism in the United States is the 
             correlation between the growing atomization ofthe individual and the rise of a cul­ture 
             of cruelty, a type of zombie politics in which the living dead engage in forms 
@@ -744,12 +668,9 @@
             and corruption, all of which belie a demo­cratic vision of America that now seems 
             imaginable only as a nostalgic rendering of the founding ideals of democracy.
           </p>
-        </article>
 
         <h2 class="chapter-title">Dangerous Authoritarianism or Shrinking Democracy?</h2>
-        <heading></heading>
         
-        <article>
           <p>Needless to say, many would disagree with Wolin’s view that the United States is 
             in the grip of a new and dangerous authoritarianism that makes a mockery of the 
             country’s moral claim to being a model of democracy at home and for the rest of 
@@ -1034,13 +955,10 @@
             not only disdains all vestiges of democracy but is more than willing to relegate it 
             to a distant memory.
           </p>
-        </article>
 
         <h2 class="chapter-title">CONCLUSION</h2>
-        <header></header>
-          
-        <article>
-          <p>This book was published just as the Obama administration finished its second year 
+
+	  <p>This book was published just as the Obama administration finished its second year 
             in office. Initially, hopes were high among large segments of the American public. 
             The long dark years of war, repression, secrecy, and corruption were rejected by 
             pop­ular vote, and a brighter day seemed on the horizon, or so it seemed. Obama spoke 
@@ -1131,7 +1049,6 @@
             moved decisively to the margins rather than occupying the very center of politics and 
             everyday life.
           </p>
-        </article>
         
         <h2>NOTES</h2>
           <ol>
@@ -1267,7 +1184,6 @@
             Other Late Modern<br>
             Monstrosities in the<br>
             Age of Disposability</h2>
-        <header></header>
 
         <blockquote>
         Monsters of disaster are special kinds of divine warning. They are harbingers of things we
@@ -1276,7 +1192,6 @@
           Jane Anna GORDON AND Lewis R. GORDON.
         </blockquote>
 
-        <article>
           <p>At present Americans are fascinated by a particular kind of monstrosity, by 
             tvampires and zombies condemned to live an eternity by feeding off the souls 
             of the living. The preoccupation with such parasitic relations speaks uncannily to 
@@ -1598,7 +1513,6 @@ away from a market-driven system that views too many young people and other vul�
 nerable populations as disposable. Against a zombie politics and a predatory capi­
 talism, we need to reimagine what liberty, equality, and freedom might mean as truly
 democratic values and practices.</p>
-</article>
 
 <h2>Notes</h2>
 <ol>
@@ -1670,7 +1584,6 @@ democratic values and practices.</p>
             to hear.
         </blockquote>
 
-        <article>
           <p>
             In the current American political landscape, truth is not merely misrepresented
             or falsified, it is overtly mocked. As is well known, the Bush administration
@@ -1938,7 +1851,6 @@ media, and other elements of a formative culture that keeps an aspiring democra�
 cy alive, we lose the spaces and capacities to imagine a future in which language,
 literacy, and hope are on the side of justice, rather than on the side of hate, willful
 ignorance, and widespread injustice.</p>
-</article>
 
 <h2>Notes</h2>
 <ol>
@@ -1959,9 +1871,7 @@ ignorance, and widespread injustice.</p>
 <h2 class="chapter-title">Zombie Language and<br>
 the Politic of the Living<br>
 Dead</h2>
-<heading></heading>
 
-<article>
 <p>In a robust democratic society, language and critical thought have a liberating 
 function. At best, they work together to shatter illusions, strengthen the power 
 of reason and critical judgment, and provide the codes and framing mechanisms for 
@@ -2210,7 +2120,6 @@ ately called radical evil.</p>
             the death of public values or to a society that is polit­ically adrift, but more 
             importantly to the unleashing of institutions, ideas, values, and social relations 
             that may lead to the demise of democracy itself.</p>
-        </article>
         
         <h2>Notes</h2>
         <ol>
@@ -2247,10 +2156,8 @@ ately called radical evil.</p>
         <h2 class="chapter-title">Everyday Violence and<br>
           the Culture of Cruelty</h2>
         <h3>Entertaining Democracy's Demise</h3>
-        <heading></heading>
 
-        <article>
-          <p>Under the Bush administration, a seeping, sometimes galloping authoritarian­ism 
+	  <p>Under the Bush administration, a seeping, sometimes galloping authoritarian­ism 
             began to reach into every vestige of the culture, giving free rein to those
             anti-democratic forces in which religious, market, militaryg and political 
             fundamen­talism thrived, casting an ominous shadow over the fate of U.S. 
@@ -2503,7 +2410,6 @@ to be able to name, engage, and transform those forms of public pedagogy that pr
 duce hate and cruelty as part of the discourse of common sense. Otherwise, democ­
 racy will lose the supportive institutions, social relations, and culture that make it
 not only possible but even thinkable.</p>
-</article>
 
 <h2>Notes</h2>
 <ol>
@@ -2567,9 +2473,7 @@ homeless.org/publications/hatecrimes/hate_report_2008_pdf] p. 34.</li>
 
 <h2 class="chapter-title">Market-Driven Hysteria<br>
 and the Politics of Death</h2>
-        <header></header>
 
-<article>
 <p>If we take seriously the ideology, arguments, and values now emanating from the
 right wing of the Republican Party, there is no room in the United States for a
 democracy in which the obligations of citizenship, compassion, and collective
@@ -2786,7 +2690,6 @@ display in America is not just an attack on the social state, big govemment, the
 lic sphere, and the common good but on the very essence of politics and democra­
 cy. This is truly a politics ofthe hyper-dead, a zombie politics that celebrates death
 over life.</p>
-</article>
 
 <h2>Notes</h2>
 <ol>
@@ -2814,7 +2717,6 @@ Bush’s Legacy and<br>
 Democracy's Failure</h2>
 <h3>Salvos from the Culture of Cruelty</h3>
 
-<article>
 <p>Nowhere is there a more disturbing, if not horrifying, example of the relation­ship between a 
 culture of cruelty and the zombie politics of irresponsibility
 than in the resounding silence that surrounds the torture of children under the pres­idency of 
@@ -3078,7 +2980,6 @@ punish­ment and the right of victims of human rights violations to remedy."24</
             thugs in Chile, and the military junta in Argentina in the 1970s rather than with 
             the United States-or at least the democratic country the United States has histor­ically 
             claimed to be.</p>
-        </article>
 
 <h2>Notes</h2>
 <ol>
@@ -3143,7 +3044,6 @@ punish­ment and the right of victims of human rights violations to remedy."24</
          and the Crisis of<br>
          Democracy</h3>
 
-        <article>
           <p>Wright Mills argued fifty years ago that one important measure of the
             demise of vibrant democracy and the corresponding impoverishment of
             political life can be found in the increasing inability ofa society to translate 
@@ -3322,7 +3222,6 @@ one that points to the need for modes of civic education that provide the knowl�
 edge and competencies for young and old alike to raise important questions about
 what education and literacy itself should accomplish in a democracy.5 This is not
 an issue we can ignore too much longer.</p>
-</article>
 
 <h2>Notes</h2>
 <ol>
@@ -3345,7 +3244,6 @@ Teaching Machines</h2>
 <h3>Rethinking the Importance<br>
 of the Powell Memo</h3>
 
-<article>
 <p>Paul Krugman, the Nobel Prize-winning economist, echoing the feelings of
 many progressives, in 2009 wrote in The New York Times about how dismayed
 he was over the success that right-wing ideologues had in undercutting Obama’s
@@ -3528,7 +3426,6 @@ threat to creating a critically informed citizenry is not merely about a crisis 
 munication and language but also about the ways in which money and power 
 cre­ate the educational conditions that make a mockery out of debate while hijacking
 any trace of democracy.</p>
-</article>
 
 <h2>Notes</h2>
 <ol>
@@ -3557,9 +3454,7 @@ http://insidehighered.com/views/2006/06/16/jones.</li>
           as Zombie Theater</h2>
         <h3>Rethinking the Importance<br>
         of the Public Sphere</h3>
-        <header></header>
 
-<article>
 <p>The bitter debate that unfolded over Obama’s health care plan garnered a great deal
 of media attention. The images were both familiar and disturbing-members of
 Congress being shouted down, taunted, hanged in efligy, and in some instances
@@ -3768,7 +3663,6 @@ address the importance of critical education, civic literacy, social responsibil
 well as the need to raise important questions about what education and civic liter­acy 
 should accomplish in a democracy and what might such a politics capable of tak­ing 
 up this challenge look like.</p>
-</article>
 
 <h2>Notes</h2>
 <ol>
@@ -3804,7 +3698,6 @@ Coming," Public Culture 12:2 (2000), pp. 305-306.</li>
 <h2 class="chapter-title">Reclaiming Public Values<br>
 in the Age of Casino Capitalism</h2>
 
-<article>
 <p>This is a difficult time in American history. Economic meltdowns, massive
 unemployment, corporate-induced ecological disasters in the Gulf of Mexico,
 and a growing disdain for liberal and progressive politics that has gained enormous
@@ -4091,7 +3984,6 @@ ing the most basic problems facing the prospects for social justice and global
 democracy. Public values matter, and they must become part of any ongoing attempt
 to give meaning to politics, the ethical imagination, and the promise of an aspir­
 ing democracy.</p>
-</article>
 
 <h2 class="chapter-title">Section III<br><br>
 Brutalizing Youth in the<br>
@@ -4101,7 +3993,6 @@ Age of Zombie Politics</h2>
 <h2 class="chapter-title">No Bailouts for Youth</h2>
 <h3>Broken Promises and Dashed Hopes</h3>
 
-<article>
 <p>By almost any political, economic, and ethical measure, Barack Obama’s elec­
 tion victory in 2008 inherited a set of problems produced by one of the dark­
 est periods in American history.1 In the eight years prior to 0bama’s presidency
@@ -4457,7 +4348,6 @@ racy that is on the side of children, particularly young children in need. It mu
 enable the conditions for youth to learn-to "grow," as _Iohn Dewey once insisted,
 as engaged social actors more alive to their responsibilities to fixture generations than
 contemporary adult society has proven itself willing to be for them.</p>
-</article>
 
 <h2>Notes</h2>
 <ol>
@@ -4523,7 +4413,6 @@ and the Death of Reason</h2>
 <h3>Schools and the Pedagogy<br>
 of Punishment</h3>
 
-<article>
 <p>The shift to a society now governed through crime,1 market-driven values, and
 the politics of disposability has radically transformed the public school as a site
 for a civic and critical education. One major effect can be seen in the increasingly
@@ -4860,7 +4749,6 @@ such circumstances, it is time for parents, young people, educators, writers, la
 unions, and social movements to take a stand and to remind themselves that not only 
 do young people deserve more, but so does an aspiring democracy that has any sense 
 of justice, vision, and hope for the future.20</p>
-</article>
 
 <h2>Notes</h2>
 <ol>
@@ -4931,7 +4819,6 @@ of justice, vision, and hope for the future.20</p>
 <h3>Painful Lessons in the Pedagogy of<br>
 School Violence</h3>
 
-<article>
 <p>Zombie politics has as one of its distinctive features the violence it wages 
 against young people. For instance, on May 20, 2009, Marshawn Pitts, a 15­-year-old 
 African American boy who is also a special needs student, was walking 
@@ -5074,7 +4961,6 @@ violence against children tell us about what kids are learning through the pedag
 force of the larger culture? What do they tell us about a society that refuses to 
 recognize that the issue is not what is wrong with children, but what is wrong with 
 American society?</p>
-</article>
 
 <h2>Notes</h2>
 <ol>
@@ -5088,7 +4974,6 @@ American society?</p>
 <h2 class="chapter-title">Tortured Memories and<br>
 the Culture of War</h2>
 
-<article>
 <p>For the last two decades, we have lived through an historical period in which the
 United States surrendered its already tenuous claim to democracy. The frames
 through which democracy apprehends the lives of others as human beings worthy
@@ -5261,30 +5146,28 @@ us all the time." justice is slipping away, once again, under the Obama administ
 but it is not just the government’s job to keep it from "going dead." It is also
 our job-as parents, citizens, individuals, and educators-not merely as a matter of
 social obligation or moral responsibility, but as an act of politics, agency, and pos­sibility.</p>
-</article>
 
 <h2>Note</h2>
 <ol>
-  <li>1. Loic Wacquant, Punishing the Poor: The Neoliheral Government q/`SorialIn.rerurit_y (Durham, NC:
-Duke University Press, 2009).
-2. See Zygmunt Bauman°s critical analysis of Carl Schmitt's popularity regarding this distinction
-in his Li-ving on Borrowed Time (London: Polity Press, 2010), especially “Conversation Ill."
-3. Henry A. Giroux, The Abandoned Generation: Beyond the Culture of Fear (New York: Palgrave,
-2004).
-4. lan Urbina, “Recession Drives Surge in Youth Runaways," The New York Times (October 25,
-2009), p. Al.
-5 _ Henry A. Giroux, Hearts q`Darknesr: Tbrturing Children in the Mzr on Terror (Boulder, CO:
-Paradigm, 2010).
-6. Nick Tursc, The Complex: How the Military Invader Our Everyday Lifves (New York: Metropolitan
-Books, 2008).
-7. Henry A. Giroux, Youth in a Suspeet Soriety (New York: Palgrave Macmillan, 2009).
+  <li>Loic Wacquant, Punishing the Poor: The Neoliheral Government q/`SorialIn.rerurit_y (Durham, NC:
+Duke University Press, 2009).</li>
+  <li>See Zygmunt Bauman°s critical analysis of Carl Schmitt's popularity regarding this distinction
+in his Li-ving on Borrowed Time (London: Polity Press, 2010), especially “Conversation Ill."</li>
+  <li>Henry A. Giroux, The Abandoned Generation: Beyond the Culture of Fear (New York: Palgrave,
+2004).</li>
+  <li>lan Urbina, “Recession Drives Surge in Youth Runaways," The New York Times (October 25,
+2009), p. Al.</li>
+  <li>_ Henry A. Giroux, Hearts q`Darknesr: Tbrturing Children in the Mzr on Terror (Boulder, CO:
+Paradigm, 2010).</li>
+  <li>Nick Tursc, The Complex: How the Military Invader Our Everyday Lifves (New York: Metropolitan
+Books, 2008).</li>
+  <li>Henry A. Giroux, Youth in a Suspeet Soriety (New York: Palgrave Macmillan, 2009).</li>
 </ol>
 
 <!-- Chapter 15 -->
 <h2 class="chapter-title">Youth Beyond the<br>
 Politics of Hope</h2>
 
-<article>
 <p>The counter-revolution that has gripped the United States since the late 19805
 has been somewhat modified with the election of Barack Obama to the pres­idency. 
 Unfortunately the dark times that befell us under the second Bush admin­istration have 
@@ -5520,7 +5403,6 @@ youth?</p>
             income, and power. lt’s time to bury the dead and let the living once again inhab­
             it the regions of government, the media, the economy, and other crucial spheres of
             power.</p>
-</article>
 
         <h2>Notes</h2>
         <ol>
@@ -5553,7 +5435,6 @@ http://www.ojp.usdoj.gov/bjs/pandp.htm.</li>
           HANNAH Arendt1
         </blockquote>
             
-<article>
             <p>Democracy in the United States is experiencing both a crisis of meaning and
             a legitimation crisis. As the promise of an aspiring democracy is sacrificed
             more and more to corporate and military interests, public spheres have largely been
@@ -5857,7 +5738,6 @@ http://www.ojp.usdoj.gov/bjs/pandp.htm.</li>
             jus­tice will recognize how serious this threat to democracy really is, and when they do, 
             they will surely understand what Gil Scott-Heron meant when he talked about win­ter in 
             America.</p>
-        </article>
         
         <h2>Notes</h2>
         <ol>
