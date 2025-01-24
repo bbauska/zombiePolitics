@@ -1,9 +1,9 @@
 <!-- Zombie Politics -->
 🧟
-          <h6>Zombie Politics</h6>
-          <h6>Brian Bauska (2025)</h6>
-          <h2 class="chapter-title">The Rise of Zombie Politics, Democracy 
-            and Threat of Authoritarianism (cadaver animatum)</h2>
+<h6>Zombie Politics</h6>
+<h6>Brian Bauska (2025)</h6>
+<h2 class="chapter-title">The Rise of Zombie Politics, Democracy 
+and Threat of Authoritarianism (cadaver animatum)</h2>
           
           <p>Education is the point at which we decide whether we love the world enough to assume
             responsibility for it and by the same token save it from ruin which, except for renewal, 
