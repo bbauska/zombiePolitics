@@ -5,42 +5,42 @@
 <h2 class="chapter-title">The Rise of Zombie Politics, Democracy 
 and Threat of Authoritarianism (cadaver animatum)</h2>
 <p>Education is the point at which we decide whether we love the world enough to assume
-            responsibility for it and by the same token save it from ruin which, except for renewal, 
-            except for the coming of the new and young, would be inevitable. And education, too, is 
-            where we decide whether we love our children enough not to expel them from our world and 
-            leave them to their own devices, nor to strike from their hands their chance of 
-            undertaking some­thing new, something unforeseen by us, but to prepare them in advance 
-            for the task of renew­ing a common world.</p>
+responsibility for it and by the same token save it from ruin which, except for renewal, 
+except for the coming of the new and young, would be inevitable. And education, too, is 
+where we decide whether we love our children enough not to expel them from our world and 
+leave them to their own devices, nor to strike from their hands their chance of 
+undertaking some­thing new, something unforeseen by us, but to prepare them in advance 
+for the task of renew­ing a common world.</p>
         
 <h2 class="chapter-title">Zombie Politics<br>
-            and Culture in the Age of Casino Capitalism</h2>
+and Culture in the Age of Casino Capitalism</h2>
 
 <dl>
 <dt><strong>zɑːm.bi</strong></dt>
 <dd>
 <em>noun</em><br>
 <p>(in popular fiction) a person or reanimated corpse that has been turned 
-                into a creature capable of movement but not of rational thought, which 
-                feeds on human flesh.</p>
-              <p>a person who is or appears lifeless, apathetic, or completely unresponsive 
-                to their surroundings.</p>
-              <p>(informal)<br>
-                a hypothetical being that responds to stimulus as a person would but that 
-                does not experience consciousness.</p>
-            </dd>
-          </dl>
+into a creature capable of movement but not of rational thought, which 
+feeds on human flesh.</p>
+<p>a person who is or appears lifeless, apathetic, or completely unresponsive 
+to their surroundings.</p>
+<p>(informal)<br>
+a hypothetical being that responds to stimulus as a person would but that 
+does not experience consciousness.</p>
+</dd>
+</dl>
 
-	<h2 class="chapter-title">The Rise<br>
-          of<br>
-          Zombie<br>
-		  Politics</h2>
-          <p>In the world of popular culture, zombies seem to be everywhere, as evidenced by
-            the relentless slew of books, movies, video games, and comics. From the haunt­ing Night 
-            of tbe Living Dead to the comic movie Zombieland, the figure of the zom­bie has captured 
-            and touched something unique in the contemporary imagination.</p>
+<h2 class="chapter-title">The Rise<br>
+of<br>
+Zombie<br>
+Politics</h2>
+<p>In the world of popular culture, zombies seem to be everywhere, as evidenced by
+the relentless slew of books, movies, video games, and comics. From the haunt­ing Night 
+of tbe Living Dead to the comic movie Zombieland, the figure of the zom­bie has captured 
+and touched something unique in the contemporary imagination.</p>
             
-          <p>But the dark and terrifying image of the zombie with missing body parts, oozing
-            body fluids, and an appetite for fresh, living, human brains does more than feed the
+<p>But the dark and terrifying image of the zombie with missing body parts, oozing
+body fluids, and an appetite for fresh, living, human brains does more than feed the
             mass-marketing machines that prey on the spectacle of the violent, grotesque, and
             ethically comatose. There is more at work in this wave of fascination with the
             grotesquely walking hyper-dead than a Hollywood appropriation of the dark
