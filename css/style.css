@@ -119,7 +119,7 @@ body {
 }
 .open-book article > ul,
 .open-book article > ol {
-    padding-left: 3em;
+    padding-left: 3em;  /* 3em; */
 }
 .open-book article > ul ul {
     padding-left: 1em;
@@ -280,7 +280,7 @@ body {
     }
     /* Chapter Title */
     .open-book .chapter-title {
-        font-size: 3em;
+        font-size: 2em;  /* 3em; */
     }
     .open-book .chapter-title:before,
     .open-book .chapter-title:after {
@@ -288,10 +288,10 @@ body {
     }
     /* Body Copy */
     .open-book article p {
-        text-indent: 3em;
+        text-indent: 2em;  /* 3em; */
     }
     .open-book article > ul,
     .open-book article > ol {
-        padding-left: 4em;
+        padding-left: 3em;  /* 4em; */
     }
 }
