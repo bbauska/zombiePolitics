@@ -12,14 +12,14 @@ and Threat of Authoritarianism (cadaver animatum)</h2>
             undertaking some­thing new, something unforeseen by us, but to prepare them in advance 
             for the task of renew­ing a common world.</p>
         
-        <h2 class="chapter-title">Zombie Politics<br>
+<h2 class="chapter-title">Zombie Politics<br>
             and Culture in the Age of Casino Capitalism</h2>
 
-          <dl>
-            <dt><strong>zɑːm.bi</strong></dt>
-            <dd>
-              <em>noun</em><br>
-              <p>(in popular fiction) a person or reanimated corpse that has been turned 
+<dl>
+<dt><strong>zɑːm.bi</strong></dt>
+<dd>
+<em>noun</em><br>
+<p>(in popular fiction) a person or reanimated corpse that has been turned 
                 into a creature capable of movement but not of rational thought, which 
                 feeds on human flesh.</p>
               <p>a person who is or appears lifeless, apathetic, or completely unresponsive 
