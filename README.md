@@ -30,10 +30,8 @@ does not experience consciousness.</p>
 </dd>
 </dl>
 
-<h2 class="chapter-title">The Rise<br>
-of<br>
-Zombie<br>
-Politics</h2>
+<h2 class="chapter-title">The Rise of Zombie Politics</h2>
+
 <p>In the world of popular culture, zombies seem to be everywhere, as evidenced by
 the relentless slew of books, movies, video games, and comics. From the haunt­ing Night 
 of tbe Living Dead to the comic movie Zombieland, the figure of the zom­bie has captured 
