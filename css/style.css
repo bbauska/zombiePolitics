@@ -106,7 +106,7 @@ body {
     max-width: 28.125em;
 }
 .open-book article p {
-    text-indent: 2em;
+    text-indent: 1.25em;  /* 2em; */
 }
 .open-book .chapter-title + p:first-of-type {
     text-indent: 0;
