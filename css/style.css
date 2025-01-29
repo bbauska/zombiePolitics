@@ -151,9 +151,7 @@ body {
   vertical-align: super;
   font-size: smaller;
 -->
-.open-book sup {
-  background: linear-gradient(to bottom, rgba(255,134,9,1) 0%,rgba(255,177,34,0.5) 60%,rgba(255,177,34,1) 100%);
-}
+
 .open-book mark {
   background: linear-gradient(to bottom, rgba(222,255,0,1) 0%,rgba(222,255,0,0.5) 60%,rgba(222,255,0,1) 100%);
 }
@@ -301,4 +299,4 @@ body {
   .open-book article > ol {
     padding-left: 3em;  /* 4em; */
   }
-}  <!-- @media only screen and ( min-width: 50em ) -->
+}  <!-- end of @media only screen and ( min-width: 50em ) -->
