@@ -152,7 +152,7 @@ body {
   font-size: smaller;
 -->
 
-.open-book sub, sup {
+.open-book sup {
   color: #cc0000;  /* strong red */
   line-height: 0;
   font-size: 70%;
