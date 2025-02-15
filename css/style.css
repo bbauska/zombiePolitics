@@ -188,6 +188,12 @@ sup {
   font-weight: 900;
 }
 
+<!-- added 2/14/2025 -->
+img.displayed {
+  display: block;
+  margin: 0 auto; 
+}
+
 /*** MEDIA QUERIES ends approx line 300 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
