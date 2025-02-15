@@ -180,6 +180,11 @@ body {
   margin: 1em auto;
   padding: 1em 0;
 }
+<!-- added 2/14/2025 -->
+.open-book img.displayed {
+  display: block;
+  margin: 0 auto; 
+}
 
 sup {
   color: #cc0000;  /* strong red */
@@ -188,13 +193,7 @@ sup {
   font-weight: 900;
 }
 
-<!-- added 2/14/2025 -->
-img.displayed {
-  display: block;
-  margin: 0 auto; 
-}
-
-/*** MEDIA QUERIES ends approx line 300 ***/
+/*** MEDIA QUERIES ends approx line 315 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
     margin: 1em;
